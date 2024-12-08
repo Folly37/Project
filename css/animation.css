@@ -1,0 +1,18 @@
+.card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2);
+}
+
+.btn:hover {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.img__project {
+    transition: transform 0.8s ease, box-shadow 0.8s ease; 
+}
+
+.img__project:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2);
+}

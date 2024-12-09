@@ -1,0 +1,40 @@
+@media(max-width:1200px) {
+    .container{
+        width: 90%;
+    }
+    .img__project {
+        height:  100%;
+    }
+}
+
+@media(max-width:991px) {
+    .container{
+        width: 85%;
+    }
+    .left__block {
+        width: 45%;
+    }
+    .right__left__block {
+        width: 45%;
+    }
+    .hr__cons {
+        width: 99%;
+    }
+    .left__title {
+        font-size: 17px;
+    }
+    .name__title {
+        font-size: 17px;
+    }
+    .price__text {
+        font-size: 17px;
+    }
+    .img__image1 {
+        width: 480px;
+        height: 360px;
+    }
+    .img__image2 {
+        width: 320px;
+        height: 360px;
+    }
+}

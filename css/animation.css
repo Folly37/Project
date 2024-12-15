@@ -32,3 +32,22 @@
     background-color: rgb(30, 30, 30);
     color: rgb(255, 255, 255); 
 }
+
+.img__image1 {
+    transition: transform 0.8s ease, box-shadow 0.8s ease;
+}
+
+.img__image1:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2);
+}
+
+.img__image2 {
+    transition: transform 0.8s ease, box-shadow 0.8s ease;
+}
+
+
+.img__image2:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2);
+}
